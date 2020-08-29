@@ -6,3 +6,4 @@ Right click on project -> configure -> covert to maven project.
 Right click on project -> properties -> project facets -> convert to facet form -> click apply&close.
 Again right click on project -> maven -> update project.
 Click on AssessmentApplication.java and run as java project.
+Update your mysql properties in application.properties file.
