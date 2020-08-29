@@ -1,0 +1,14 @@
+package com.wns.assessment.model;
+
+public enum Headers {
+	ADDMOD,
+	NVIC,
+	VEHCAT,
+	COMPANY,
+	EFFECTIVEDATE,
+	CHANGETIMESTAMP,
+	EFFECTIVEENDDATE,
+	ENDDATETIMESTAMP,
+	ACCEPTCRIT,
+	INTERNETJEP;
+}
